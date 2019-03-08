@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">CodeChallengesModule5</string>
+    <string name="text1">„De din vale de Rovine\n
+Grăim, Doamnă, către Tine,\n
+Nu din gură, ci din carte,\n
+Că ne ești așa departe.\n
+Te-am ruga, mări, ruga\n
+Să-mi trimiți prin cineva\n
+Ce-i mai mîndru-n valea Ta:\n
+Codrul cu poienele,\n
+Ochii cu sprîncenele;\n
+Că și eu trimite-voi\n
+Ce-i mai mîndru pe la noi:\n
+Oastea mea cu flamurile,\n
+Codrul și cu ramurile,\n
+Coiful nalt cu penele,\n
+Ochii cu sprîncenele.\n
+Și să știi că-s sănătos,\n
+Că, mulțămind lui Cristos,\n
+Te sărut, Doamnă, frumos“.</string>
+    <string name="text2">De-așa vremi se-nvredniciră cronicarii și rapsozii;\n
+Veacul nostru ni-l umplură saltimbancii și irozii…\n
+În izvoadele bătrîne pe eroi mai pot să caut;\n
+Au cu lira visătoare ori cu sunete de flaut\n
+Poți să-ntîmpini patrioții ce-au venit de-atunci încolo?\n
+Înapoi acestora tu ascunde-te, Apollo!\n
+O, eroi! care-n trecutul de măriri vă adumbriseți,\n
+Ați ajuns acum de modă de vă scot din letopiseți,\n
+Și cu voi drapîndu-și nula, vă citează toți nerozii,\n
+Mestecînd veacul de aur în noroiul greu al prozii.\n
+Rămîneți în umbră sfîntă, Basarabi și voi Mușatini,\n
+Descălecători de țară, dătători de legi și datini,\n
+Ce cu plugul și cu spada ați întins moșia voastră\n
+De la munte pîn’ la mare și la Dunărea albastră. </string>
+    <string name="text3">Pe cînd oastea se așează, iată soarele apune,
+Voind creștetele nalte ale țării să-ncunune\n
+Cu un nimb de biruință; fulger lung încremenit\n
+Mărginește munții negri în întregul asfințit,\n
+Pîn’ ce izvorăsc din veacuri stele una cîte una\n
+Și din neguri, dintre codri, tremurînd s-arată luna:\n
+Doamna mărilor ș-a nopții varsă liniște și somn.\n
+Lîngă cortu-i, unul dintre fiii falnicului domn\n
+Sta zîmbind de-o amintire, pe genunchi scriind o carte,\n
+S-o trimiță dragei sale, de la Argeș mai departe: </string>
+    <string name="clear_all">Clear All</string>
+    <string name="message">Message</string>
+    <string name="send">send</string>
+    <string name="chat">Chat</string>
+    <string name="text_one">text one</string>
+    <string name="text_two">text two</string>
+    <string name="text_three">text three</string>
+</resources>
